@@ -1,0 +1,7 @@
+[
+    {"id" : 1 , "modele" : "Lenovo" , "dateCréation" : "10/10/2001","prix" : 1000, "remise":"50%"},
+    {"id" : 2 , "modele" : "Samsung" , "dateCréation" : "20/9/2011","prix" : 1200, "remise":"20%"},
+    {"id" : 3 , "modele" : "Mac" , "dateCréation" : "8/8/2022","prix" : 3000, "remise":"30%"},
+    {"id" : 4 , "modele" : "Asus" , "dateCréation" : "3/5/2000","prix" : 900, "remise":"15%"},
+    {"id" : 1 , "modele" : "HP" , "dateCréation" : "10/6/1999","prix" : 1400, "remise":"12%"}
+]
